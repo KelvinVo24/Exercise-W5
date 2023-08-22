@@ -57,7 +57,13 @@ body{
 }
 
 .signin{
-    margin-top: 10px;
+    margin-top: 5px;
+    width: 120px;
+    height: 37px;
+    padding: 5px;
+    background-color: black;
+    text-align: center;
+    border-radius: 10px ;
 }
 .Acc{
     text-decoration: none;
